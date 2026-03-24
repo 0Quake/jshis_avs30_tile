@@ -1,4 +1,7 @@
 # jshis_avs30_tile
+## 凡例
+<img width="591" height="119" alt="名称未設定" src="https://github.com/user-attachments/assets/7dd2cbdc-d72d-4de0-82fe-79ef7b77a91b" />
+
 ## 出典
 [JSHIS-Map](https://www.j-shis.bosai.go.jp/map/)・下記文献
 1. 若松加寿江・松岡昌志(2013)：全国統一基準による地形・地盤分類250mメッシュマップの構築とその利用，地震工学会誌 No.18, pp.35-38.
